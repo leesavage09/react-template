@@ -1,4 +1,4 @@
-#Vite React Template
+# Vite React Template
 
 A template for a Vite React app. It is preconfigured with
 commitlint
@@ -7,8 +7,10 @@ prettier
 
 It uses husky to enforce rules pre-commit.
 
-##Quickstart
+## Quickstart
 
-```npm install```
-```npm run dev```
+```
+npm install
+npm run dev
+```
  
